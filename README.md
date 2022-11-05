@@ -255,7 +255,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 -->
 
 ---
-Added at the end
+Added at the end is near
 
 ---
 
